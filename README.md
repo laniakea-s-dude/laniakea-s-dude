@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @laniakea-s-dude
 - 👀 I’m interested in Linux, astronomy, music.
-- 🌱 I’m currently learning bash, Python, HTML5, CSS3, LateX, Git.
+- 🌱 I’m currently learning Python, Git.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
